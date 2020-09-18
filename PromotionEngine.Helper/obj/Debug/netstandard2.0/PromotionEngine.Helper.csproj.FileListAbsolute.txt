@@ -1,0 +1,9 @@
+E:\Project\PromotionEngine\PromotionEngine.Helper\bin\Debug\netstandard2.0\PromotionEngine.Helper.deps.json
+E:\Project\PromotionEngine\PromotionEngine.Helper\bin\Debug\netstandard2.0\PromotionEngine.Helper.dll
+E:\Project\PromotionEngine\PromotionEngine.Helper\bin\Debug\netstandard2.0\PromotionEngine.Helper.pdb
+E:\Project\PromotionEngine\PromotionEngine.Helper\obj\Debug\netstandard2.0\PromotionEngine.Helper.AssemblyInfoInputs.cache
+E:\Project\PromotionEngine\PromotionEngine.Helper\obj\Debug\netstandard2.0\PromotionEngine.Helper.AssemblyInfo.cs
+E:\Project\PromotionEngine\PromotionEngine.Helper\obj\Debug\netstandard2.0\PromotionEngine.Helper.csproj.CoreCompileInputs.cache
+E:\Project\PromotionEngine\PromotionEngine.Helper\obj\Debug\netstandard2.0\PromotionEngine.Helper.dll
+E:\Project\PromotionEngine\PromotionEngine.Helper\obj\Debug\netstandard2.0\PromotionEngine.Helper.pdb
+E:\Project\PromotionEngine\PromotionEngine.Helper\obj\Debug\netstandard2.0\PromotionEngine.Helper.csprojAssemblyReference.cache

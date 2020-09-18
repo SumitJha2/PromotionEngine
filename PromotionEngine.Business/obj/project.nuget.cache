@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kbNTPF6RnLQR/Es7l7Yf67ILBjRtBKkEPKjj6P1blVlZRB3S1X7hDw6lYN7S+6x9bzrWz8U8vkkMsRkNCRCIDw==",
+  "success": true,
+  "projectFilePath": "E:\\Project\\PromotionEngine\\PromotionEngine.Business\\PromotionEngine.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sumit\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
